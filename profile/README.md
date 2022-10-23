@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Te damos la bienvenida a ConoSurTech
+# Te damos la bienvenida a ConoSurTech 👋
 
 🔌 Conectamos #personas 👫 con la #tecnologia 💻 y construimos #comunidad 💪🏳️‍🌈
 
